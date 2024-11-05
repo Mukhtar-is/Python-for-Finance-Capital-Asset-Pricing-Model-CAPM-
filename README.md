@@ -1,7 +1,7 @@
 # Python-for-Finance-Capital-Asset-Pricing-Model-CAPM
 
-
-
+# Overview
+The main objective of this project is to assist in comprehending and using the CAPM in practical situations. The relationship between systematic risk and expected return for assets, especially stocks, is described by the Capital Asset Pricing Model (CAPM), a fundamental idea in finance. Using Python, Streamlit, and a number of financial libraries, this project enables users to compute and display important metrics, such as beta and alpha, for a stock portfolio in comparison to a benchmark index (such as the S&P 500).
 
 ## Screenshots
 ```python
